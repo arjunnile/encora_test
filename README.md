@@ -1,2 +1,6 @@
-# encora_test
-This is encora test repositoory
+## Login page
+1. User below credentials to login successful.
+Username : encora
+password : encora1234
+
+
